@@ -1,1 +1,1 @@
-worker: python ott.py
+worker: python ot.py
